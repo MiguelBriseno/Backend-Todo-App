@@ -1,6 +1,6 @@
 const mysqlCon = {
-    host: '127.0.0.1',
-    user: 'mike',
+    host: '192.168.0.173',
+    user: 'root',
     password: 'SMMJ150695abb..m',
     database: 'tasks',
     port: 3306
